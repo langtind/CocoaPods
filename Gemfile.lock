@@ -24,10 +24,10 @@ GIT
 
 GIT
   remote: https://github.com/CocoaPods/Xcodeproj.git
-  revision: 700e41b26f170d31af2599c50cea5666923a6363
-  branch: master
+  revision: 85ed1eb956cae9c13c6d8d7ea8bf5b14052dc9ef
+  branch: seg-predictable-uuids
   specs:
-    xcodeproj (0.25.0)
+    xcodeproj (0.25.1)
       activesupport (>= 3)
       colored (~> 1.2)
 
